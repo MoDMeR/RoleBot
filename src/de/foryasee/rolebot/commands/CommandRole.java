@@ -58,7 +58,6 @@ public class CommandRole extends Command {
 				}
 			} else if (args[0].equalsIgnoreCase("remove")) {
 				if (new RoleManager(e.getGuild()).isAdded(role.getId())) {
-					System.out.println(role.getName());
 					if (new UserRoleManager(e).hasRole(role)) {
 						new UserRoleManager(e).removeRole(role);
 						EmbedBuilder b = new EmbedBuilder();
