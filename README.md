@@ -23,4 +23,3 @@
   
   add <role>          | Adds a role to the user                                     | <permission = nothing>
   remove <role>       | Removes a role from the user                                | <permission = nothing>
-  
