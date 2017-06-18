@@ -1,15 +1,15 @@
-##-- Setup --
+##-- Setup --##
 1) Run the .jar in the command prompt with: java -jar RoleBot.jar
 2) Type: set prefix <prefix>
 3) Type: set token <token>
 4) Type: start
 
 
-##-- Start --
+##-- Start --##
 1) Run the .jar in the command prompt with: java -jar RoleBot.jar
 2) Type: start
 
-##-- Commands --
+##-- Commands --##
   -promote <@User>    | Promotes the user that he could use the "roles"  command    | <permission = owner>
   -demote <@User>     | Demotes the user that he couldn't use the "roles"  command  | <permission = owner>
   -promo              | List of all promoted users                                  | <permission = promoted>
