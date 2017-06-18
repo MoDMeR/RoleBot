@@ -5,6 +5,7 @@
 4) Type: start
 
 
+
 -- Start --
 1) Run the .jar in the command prompt with: java -jar RoleBot.jar
 2) Type: start
