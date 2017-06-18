@@ -26,11 +26,11 @@
 >  -roles remove <role>| Removes a role from self assignable roles                   | <permission = promoted>
 >  
 >  
->  role add <role>     | Adds a role to the user                                     | <permission = nothing>
+>  -role add <role>     | Adds a role to the user                                     | <permission = nothing>
 >  
->  role remove <role>  | Removes a role from the user                                | <permission = nothing>
+>  -role remove <role>  | Removes a role from the user                                | <permission = nothing>
 >  
 >  
->  add <role>          | Adds a role to the user                                     | <permission = nothing>
+>  -add <role>          | Adds a role to the user                                     | <permission = nothing>
 >  
->  remove <role>       | Removes a role from the user                                | <permission = nothing>
+>  -remove <role>       | Removes a role from the user                                | <permission = nothing>
